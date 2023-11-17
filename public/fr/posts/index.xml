@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Formula 1 blog</title>
+    <link>/fr/posts/</link>
+    <description>Recent content in Posts on Formula 1 blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grand Prix de Turquie 2020 - Istanbul Park</title>
+      <link>/fr/posts/turkey/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/posts/turkey/</guid>
+      
+      <description>Moments forts de la course Le Grand Prix de Turquie 2020 à Istanbul Park le 15 novembre a offert un spectacle spectaculaire de courses sur une piste mouillée et difficile. La pluie a ajouté une couche supplémentaire de complexité, testant les compétences et l&amp;rsquo;adaptabilité des pilotes.
+Vainqueur : Lewis Hamilton &amp;ldquo;Ce sont les courses pour lesquelles vous vivez. Les conditions étaient difficiles, mais l&amp;rsquo;équipe et moi les avons bien gérées.</description>
+      
+    </item>
+    
+    <item>
+      <title>Grand Prix d&#39;Italie 2020 - Monza</title>
+      <link>/fr/posts/monza/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/posts/monza/</guid>
+      
+      <description>Moments Forts de la Course Le Grand Prix d&amp;rsquo;Italie 2020 à Monza a été un spectacle palpitant rempli de rebondissements inattendus et de compétition intense. Tenue le 6 septembre, la course a offert de l&amp;rsquo;excitation de bout en bout.
+Vainqueur : Pierre Gasly &amp;ldquo;C&amp;rsquo;est un rêve qui se réalise ! L&amp;rsquo;équipe a fait un travail incroyable, et je suis tellement fier de ce que nous avons accompli ensemble.&amp;rdquo; - Pierre Gasly</description>
+      
+    </item>
+    
+  </channel>
+</rss>

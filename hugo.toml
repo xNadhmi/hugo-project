@@ -1,13 +1,14 @@
-title = "Awesome Hugo blog"
-baseURL = 'https://hba.sid.one/'
+title = "Formula 1 blog"
+baseURL = '/'
 
 # This is what goes in <html lang="">
-languageCode = 'en-us'
+languageCode = 'en'
 
 theme = "hugo-blog-awesome"
 
+
 # This defines how dates are formatted
-defaultContentLanguage = "en-gb"
+defaultContentLanguage = "fr"
 
 
 # Enable emojis globally
@@ -27,39 +28,39 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 		ordered = false # generates <ul> instead of <ol>
 
 ############################## English language ################################
-[Languages.en-gb]
+[Languages.en]
   languageName = "English"
-  languageCode = "en-gb"
+  languageCode = "en"
   contentDir = "content/en"
   weight = 1
 
-  [Languages.en-gb.menu]
-  [[Languages.en-gb.menu.main]]
+  [Languages.en.menu]
+  [[Languages.en.menu.main]]
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
     name = 'Home'
     url = '/'
     weight = 10
-  [[Languages.en-gb.menu.main]]
-    pageRef="races"
+  [[Languages.en.menu.main]]
+    pageRef="posts"
     name = 'Races'
-    url = '/races/'
+    url = '/posts/'
     weight = 20
-  [[Languages.en-gb.menu.main]]
+  [[Languages.en.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
     weight = 30
 
-[Languages.en-gb.params]
-  sitename = "Awesome hugo blog"
+[Languages.en.params]
+  sitename = "Formula 1 blog"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
-  description = "Minimal Hugo blog theme with light and dark mode support"
-  mainSections = ['races']
+  description = "An enthusiast blog dedicated to Formula 1 races."
+  mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
@@ -75,15 +76,15 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
   # By default (or if nothing is specified), summary is used.
 
-[Languages.en-gb.params.author]
+[Languages.en.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  intro = "Formula 1 Enthusiast Blog"
+  name = "Nadhmi K"
+  description = "Passionate about Formula 1 racing, this blog shares the love for the sport. The goal is to provide engaging and insightful content that captures the excitement of each race."
 
 # Allow to override webmanifest options
-[Languages.en-gb.params.webmanifest]
+[Languages.en.params.webmanifest]
   name = "sitename" # will use "params.sitename" or "title" by default
   short_name = "sitename" # same as name
   start_url = "/" # will use homepage url by default
@@ -102,17 +103,17 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     # The page reference (pageRef) is useful for menu highlighting
     # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
     pageRef="/"
-    name = 'Inizio'
+    name = 'Accueil'
     url = '/'
     weight = 10
   [[Languages.fr.menu.main]]
-    pageRef="races"
+    pageRef="posts"
     name = 'Courses'
-    url = '/races/'
+    url = '/posts/'
     weight = 20
   [[Languages.fr.menu.main]]
     pageRef="about"
-    name = 'Chi Sono'
+    name = 'À Propos'
     url = '/about/'
     weight = 30
 
@@ -123,7 +124,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # the default value is set to 'auto'.
   # You can take a look at layouts/index.html for more information.
   description = "Un tema Hugo veloce e minimalista con supporto per la modalità chiara e scura, per la gestione di un sito o di un blog personale"
-  mainSections = ['races']
+  mainSections = ['posts']
   toc = true # set to false to disable table of contents 'globally'
   tocOpen = false # set to true to open table of contents by default
   goToTop = true # set to false to disable 'go to top' button
@@ -142,9 +143,9 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 [Languages.fr.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "Un tema Hugo veloce e minimalista con supporto per la modalità chiara e scura, per la gestione di un sito o di un blog personale."
+  intro = "Blog des amateurs de Formula 1"
+  name = "Nadhmi K"
+  description = "Passionné par les courses de Formula 1, ce blog partage l'amour de ce sport. L'objectif est de fournir un contenu attrayant et perspicace qui capture l'excitation de chaque course."
 
 # Allow to override webmanifest options
 [Languages.fr.params.webmanifest]
@@ -163,7 +164,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/hugo-sid"
+url = "https://github.com/xNadhmi"
 
 [[params.socialIcons]]
 name = "website"

@@ -2,40 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hba.sid.one/fr/</loc>
+    <loc>/pages/about/</loc>
+    <lastmod>2023-11-17T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="https://hba.sid.one/"
+                hreflang="en"
+                href="/en/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hba.sid.one/fr/"
+                href="/pages/about/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/fr/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2023-11-17T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="https://hba.sid.one/categories/"
+                hreflang="en"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hba.sid.one/fr/categories/"
+                href="/"
                 />
   </url><url>
-    <loc>https://hba.sid.one/fr/tags/</loc>
+    <loc>/pages/</loc>
+    <lastmod>2023-11-17T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="https://hba.sid.one/tags/"
+                hreflang="en"
+                href="/en/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://hba.sid.one/fr/tags/"
+                href="/pages/"
+                />
+  </url><url>
+    <loc>/posts/turkey/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/turkey/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/posts/turkey/"
+                />
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/posts/"
+                />
+  </url><url>
+    <loc>/posts/monza/</loc>
+    <lastmod>2020-09-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/monza/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/posts/monza/"
+                />
+  </url><url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/tags/"
                 />
   </url>
 </urlset>
