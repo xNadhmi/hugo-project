@@ -1,0 +1,93 @@
+
+html.dark {
+	color-scheme: dark light;
+}
+
+html footer {
+	height: auto;
+	max-width: calc(890px - (30px * 2));
+	max-width: -webkit-calc(890px - (30px * 2));
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+html footer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 0 1rem;
+	border-radius: 1rem;
+	margin-top: 1rem;
+}
+
+html .navbar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 1rem;
+	border-radius: 1rem;
+	margin-top: 1rem;
+}
+
+html.dark .navbar,
+html.dark footer,
+html.dark main[aria-label="Content"] {
+	background-color: rgba(255,255,255,0.05);
+}
+
+html.dark .post-item:not(:first-child),
+html.dark table * {
+	border-color: rgba(255,255,255,0.1);
+}
+
+html.light .navbar,
+html.light footer,
+html.light main[aria-label="Content"] {
+	background-color: rgba(0,0,0,0.1) !important;
+}
+
+html.light .post-item:not(:first-child),
+html.light table * {
+	border-color: rgba(0,0,0,0.2) !important;
+}
+
+
+html .navbar nav {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	width: 100%;
+}
+
+a {
+	outline-color: #ff002f !important;
+	transition: color 0.2s ease-out;
+}
+
+a:hover {
+	color: #ff002f !important;
+}
+
+.menu .menu-separator {
+	color: #ff002f !important;
+}
+
+select {
+	display: flex;
+	align-items: center;
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+	border: none;
+}
+
+mark, ::selection {
+	background: #fa254c;
+}
+
+html main[aria-label="Content"] {
+	padding: 1rem;
+	border-radius: 1rem;
+	margin: 1rem 0;
+}
