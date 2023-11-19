@@ -8,8 +8,7 @@ html footer {
 	max-width: calc(890px - (30px * 2));
 	max-width: -webkit-calc(890px - (30px * 2));
 	position: relative;
-	margin-right: auto;
-	margin-left: auto;
+	margin: 2rem auto !important;
 }
 
 html footer {
