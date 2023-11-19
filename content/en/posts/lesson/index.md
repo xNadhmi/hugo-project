@@ -5,7 +5,7 @@ date: 2023-11-17
 
 # Lesson: Getting Started with Hugo and GitHub Pages
 
-[Hugo](cover.png)
+![Hugo](cover.png)
 
 ## Introduction
 

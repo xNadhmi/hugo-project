@@ -1,6 +1,6 @@
 
 
-[Hugo](assets/cover.png)
+![Hugo](assets/cover.png)
 
 # Hugo Demonstration
 
