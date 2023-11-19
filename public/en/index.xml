@@ -21,6 +21,18 @@ What We Cover Race highlights and summaries Driver profiles Team updates and new
     </item>
     
     <item>
+      <title>Introduction to Hugo and GitHub Pages</title>
+      <link>/en/posts/lesson/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/en/posts/lesson/</guid>
+      
+      <description>Lesson: Getting Started with Hugo and GitHub Pages Introduction In today&amp;rsquo;s lesson, we&amp;rsquo;ll explore the powerful static site generator, Hugo, and learn how to leverage GitHub Pages to host our Hugo-generated site. Whether you&amp;rsquo;re a beginner or looking to advance your skills, this lesson will cover the essentials to get you started and take you to the next level.
+What is Hugo? Hugo is a fast and flexible static site generator written in Go.</description>
+      
+    </item>
+    
+    <item>
       <title>2020 Turkish Grand Prix - Istanbul Park</title>
       <link>/en/posts/turkey/</link>
       <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>

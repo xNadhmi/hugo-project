@@ -41,6 +41,32 @@
                 href="/en/pages/"
                 />
   </url><url>
+    <loc>/en/posts/lesson/</loc>
+    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/posts/lesson/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/lesson/"
+                />
+  </url><url>
+    <loc>/en/posts/</loc>
+    <lastmod>2023-11-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+  </url><url>
     <loc>/en/posts/turkey/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -52,19 +78,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/posts/turkey/"
-                />
-  </url><url>
-    <loc>/en/posts/</loc>
-    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
                 />
   </url><url>
     <loc>/en/posts/monza/</loc>

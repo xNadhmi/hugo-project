@@ -1,5 +1,5 @@
 ---
-titre : "Introduction à Hugo et aux pages GitHub"
+title : "Introduction à Hugo et aux pages GitHub"
 date : 2023-11-17
 ---
 
