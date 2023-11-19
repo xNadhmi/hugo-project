@@ -5,6 +5,8 @@ date: 2023-11-17
 
 # Lesson: Getting Started with Hugo and GitHub Pages
 
+[Hugo](cover.png)
+
 ## Introduction
 
 In today's lesson, we'll explore the powerful static site generator, Hugo, and learn how to leverage GitHub Pages to host our Hugo-generated site. Whether you're a beginner or looking to advance your skills, this lesson will cover the essentials to get you started and take you to the next level.

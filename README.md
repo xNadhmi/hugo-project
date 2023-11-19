@@ -1,4 +1,7 @@
 
+
+[Hugo](assets/cover.png)
+
 # Hugo Demonstration
 
 This project serves as a demonstration of implementing Hugo, a static site generator, and deploying it using GitHub Pages with automated updates through GitHub Actions. The blog showcases posts about Formula 1 races in both English and French, providing seamless translation for a diverse audience.

@@ -5,6 +5,8 @@ date : 2023-11-17
 
 # Leçon : Introduction à Hugo et aux pages GitHub
 
+[Hugo](cover.png)
+
 ## Introduction
 
 Dans la leçon d'aujourd'hui, nous allons explorer le puissant générateur de sites statiques, Hugo, et apprendre à utiliser GitHub Pages pour héberger notre site généré par Hugo. Que vous soyez débutant ou que vous cherchiez à améliorer vos compétences, cette leçon couvrira les éléments essentiels pour vous permettre de démarrer et de passer au niveau supérieur.
