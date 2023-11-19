@@ -2,119 +2,119 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/pages/about/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/pages/about/</loc>
     <lastmod>2023-11-17T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/pages/about/"
+                href="https://xnadhmi.github.io/hugo-project/en/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/pages/about/"
+                href="https://xnadhmi.github.io/hugo-project/pages/about/"
                 />
   </url><url>
-    <loc>/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/</loc>
     <lastmod>2023-11-17T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://xnadhmi.github.io/hugo-project/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/"
+                href="https://xnadhmi.github.io/hugo-project/"
                 />
   </url><url>
-    <loc>/pages/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/pages/</loc>
     <lastmod>2023-11-17T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/pages/"
+                href="https://xnadhmi.github.io/hugo-project/en/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/pages/"
+                href="https://xnadhmi.github.io/hugo-project/pages/"
                 />
   </url><url>
-    <loc>/posts/lesson/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/posts/lesson/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/lesson/"
+                href="https://xnadhmi.github.io/hugo-project/en/posts/lesson/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/posts/lesson/"
+                href="https://xnadhmi.github.io/hugo-project/posts/lesson/"
                 />
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/posts/</loc>
     <lastmod>2023-11-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="https://xnadhmi.github.io/hugo-project/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/posts/"
+                href="https://xnadhmi.github.io/hugo-project/posts/"
                 />
   </url><url>
-    <loc>/posts/turkey/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/posts/turkey/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/turkey/"
+                href="https://xnadhmi.github.io/hugo-project/en/posts/turkey/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/posts/turkey/"
+                href="https://xnadhmi.github.io/hugo-project/posts/turkey/"
                 />
   </url><url>
-    <loc>/posts/monza/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/posts/monza/</loc>
     <lastmod>2020-09-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/monza/"
+                href="https://xnadhmi.github.io/hugo-project/en/posts/monza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/posts/monza/"
+                href="https://xnadhmi.github.io/hugo-project/posts/monza/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://xnadhmi.github.io/hugo-project/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/categories/"
+                href="https://xnadhmi.github.io/hugo-project/categories/"
                 />
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://xnadhmi.github.io/hugo-project/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://xnadhmi.github.io/hugo-project/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/tags/"
+                href="https://xnadhmi.github.io/hugo-project/tags/"
                 />
   </url>
 </urlset>

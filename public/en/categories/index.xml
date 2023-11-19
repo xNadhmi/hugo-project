@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Formula 1 blog</title>
-    <link>/en/categories/</link>
+    <link>https://xnadhmi.github.io/hugo-project/en/categories/</link>
     <description>Recent content in Categories on Formula 1 blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://xnadhmi.github.io/hugo-project/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

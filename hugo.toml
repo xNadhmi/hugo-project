@@ -1,5 +1,5 @@
 title = "Formula 1 blog"
-baseURL = '/'
+baseURL = 'https://xnadhmi.github.io/hugo-project/'
 
 # This is what goes in <html lang="">
 languageCode = 'en'
